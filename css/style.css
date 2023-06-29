@@ -1,0 +1,26 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(33,37,41,var(--bs-bg-opacity,1));
+}
+
+.ocultar {
+    display: none;
+}
+
+.sec-home {
+    width: 100%;
+    max-width: 992px;
+}
+
+.upPrice {
+    color: green;
+}
+
+.downPrice {
+    color: red;
+}
+
+
